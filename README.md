@@ -5,11 +5,4 @@ Roteiro do curso básico de Windows Movie Maker do Clicar na Terceira Idade: Pro
 Situação: Em andamento; Natureza: Extensão. 
 Financiador(es): Pontifícia Universidade Católica de Minas Gerais - Auxílio financeiro.
 
-2. Alunos envolvidos: 
-- Jane Carmelita das Dores Garandy de Arruda Barroso - Coordenadora 
-- Pedro Augusto Duarte de Almeida - Integrante
-- Claudiene Aurora de Cassia Gomes - Integrante
-- Dhenerson Augusto Carneiro - Integrante
-- Patrick Sorrentino Reis - Integrante
-- Rodrigo Maia Pereira - Integrante
-- Alan Fagner Nunes - Integrante.
+2. Alunos envolvidos: Jane Carmelita das Dores Garandy de Arruda Barroso - Coordenadora / Pedro Augusto Duarte de Almeida - Integrante / Claudiene Aurora de Cassia Gomes - Integrante / Dhenerson Augusto Carneiro - Integrante / Patrick Sorrentino Reis - Integrante / Rodrigo Maia Pereira - Integrante / Alan Fagner Nunes - Integrante.
