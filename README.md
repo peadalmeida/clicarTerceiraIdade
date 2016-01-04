@@ -14,4 +14,4 @@ Roteiro do curso básico de Windows Movie Maker do Clicar na Terceira Idade: Pro
 7. Alan Fagner Nunes - Integrante 
 
 # Situação:
->Projeto de Extensão - em andamento
+>Projeto de Extensão - Concluído
